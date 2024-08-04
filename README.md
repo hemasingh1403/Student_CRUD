@@ -1,4 +1,4 @@
-# Student_CRUD
+# Student_CRUD 
 Features
 Insert Records: Add new student records to the file. The script collects details such as roll number, name, course, date of birth, phone number, and address.
 Display Records: Display all student records from the file.
